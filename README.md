@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<div style="text-align=center;">
+  <h3>Hi there, I'm sseung416 👋 <h3>
+  <h4>안드로이드 개발자를 희망하는 대구소프트웨어마이스터고 학생입니다!</h3>
+</div>
+    
+    
 <!--
 **Seungyeon-Choi416/Seungyeon-Choi416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
